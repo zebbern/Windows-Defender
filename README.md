@@ -8,9 +8,9 @@
 > [!Note]
 > The C# injector Working Undetected From Windows Defender
 >
-> `Last Checked`: 19.Mai.2025
+> <kbd>Last Checked: 19.Mai.2025</kbd>
 > 
-> The C# injector Code is Public Here So i Expect it to be patched soon by someone posting this on virustotal and giving the string away so i recommend reconstructing the C# code to your own.
+> **`The C# injector Code is Public Here So i Expect it to be patched soon by someone posting this on virustotal and giving the string away so i recommend reconstructing the C# code to your own.`**
 
 ### Prerequisites
 - **Visual Studio 2022** (with .NET Framework support)
