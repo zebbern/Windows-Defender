@@ -1,8 +1,10 @@
 ## Reverse Shell Creation & AV Evasion  
 
-> [!Warning] 
+> ## ⚠️ Warning  
 > **For authorized lab use only.**  
-> Running these techniques on systems you do **not** own or without permission is illegal.
+> Running these techniques on systems you do **not** own or without permission is illegal.  
+> *This repository is provided “as is”, without warranty of any kind. The author assumes no liability for any misuse. By using any part of this code you agree to comply with all applicable laws and gain explicit permission before running it against a system.*
+
 
 ### Prerequisites
 - **Visual Studio 2022** (with .NET Framework support)
