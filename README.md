@@ -5,6 +5,12 @@
 > Running these techniques on systems you do **not** own or without permission is illegal.  
 > *This repository is provided “as is”, without warranty of any kind. The author assumes no liability for any misuse. By using any part of this code you agree to comply with all applicable laws and gain explicit permission before running it against a system.*
 
+> [!Note]
+> The C# injector Working Undetected From Windows Defender
+>
+> `Last Checked`: 19.Mai.2025
+> 
+> The C# injector Code is Public Here So i Expect it to be patched soon by someone posting this on virustotal and giving the string away so i recommend reconstructing the C# code to your own.
 
 ### Prerequisites
 - **Visual Studio 2022** (with .NET Framework support)
