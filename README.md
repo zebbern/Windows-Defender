@@ -230,7 +230,7 @@ byte[] buf = new byte[460] {0x96,0x22 etc...............0xbf};
 3. **Success** → a shell or Meterpreter session connects back.
 
 > **Tip:** use a high‑numbered port (e.g. 443, 8443) that the firewall allows.
-> <img src="https://github.com/user-attachments/assets/c5b71f7e-f34f-4c52-a056-fb72cceaf702)
+> <img src="https://github.com/user-attachments/assets/c5b71f7e-f34f-4c52-a056-fb72cceaf702" width="600" />)
 
 
 ## Post‑exploitation Cheatsheet
